@@ -13,7 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         labuda
-        labuda 2labuda 
+        labuda 2labuda
+        labuda 3labuda 
     }
 
 
