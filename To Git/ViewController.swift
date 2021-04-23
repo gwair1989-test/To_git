@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         labuda
         labuda 2labuda
         labuda 3labuda 
+        labuda 4labuda 
     }
 
 
